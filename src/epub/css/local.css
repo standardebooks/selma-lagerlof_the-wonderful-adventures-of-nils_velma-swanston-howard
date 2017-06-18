@@ -21,6 +21,7 @@
 }
 
 .datetime{
+	margin-top: 1em;
 	text-align: right;
 	font-style: italic;
 }

@@ -42,6 +42,8 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/10935</dc:source>
+		<dc:source>https://archive.org/details/wonderfuladventu00lagerich</dc:source>
+		<dc:source>https://archive.org/details/furtheradventur00lagegoog</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Wonderful_Adventures_of_Nils</meta>

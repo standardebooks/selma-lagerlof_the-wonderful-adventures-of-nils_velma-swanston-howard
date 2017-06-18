@@ -24,3 +24,7 @@
 	text-align: right;
 	font-style: italic;
 }
+
+.datetime + p{
+	text-indent: 0;
+}

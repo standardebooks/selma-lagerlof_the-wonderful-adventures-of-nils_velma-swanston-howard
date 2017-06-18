@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2017-06-18T13:55:18Z</dc:date>
+		<meta property="dcterms:modified">2017-06-18T13:55:18Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -25,12 +25,12 @@
 		<dc:subject id="subject-4">Kindness -- Juvenile fiction</dc:subject>
 		<dc:subject id="subject-5">Sweden -- Juvenile fiction</dc:subject>
 		<dc:subject id="subject-6">Geese -- Juvenile fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/10935</meta>
-		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/10935</meta>
-		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/10935</meta>
-		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/10935</meta>
-		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/10935</meta>
-		<meta property="meta-auth" refines="#subject-6">http://www.gutenberg.org/ebooks/10935</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/10935</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/10935</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/10935</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/10935</meta>
+		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/10935</meta>
+		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/10935</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
@@ -44,8 +44,8 @@
 		<dc:source>http://www.gutenberg.org/ebooks/10935</dc:source>
 		<dc:source>https://archive.org/details/wonderfuladventu00lagerich</dc:source>
 		<dc:source>https://archive.org/details/furtheradventur00lagegoog</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">154942</meta>
+		<meta property="se:reading-ease.flesch">79.09</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Wonderful_Adventures_of_Nils</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/selma-lagerlof_the-wonderful-adventures-of-nils_velma-howard</meta>
 		<dc:creator id="author">Selma Lagerlöf</dc:creator>

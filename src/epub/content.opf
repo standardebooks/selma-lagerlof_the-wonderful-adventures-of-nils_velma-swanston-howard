@@ -99,6 +99,7 @@
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/in-medelpad.xhtml" id="in-medelpad.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/in-rainy-weather.xhtml" id="in-rainy-weather.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/karlskrona.xhtml" id="karlskrona.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/legends-from-harjedalen.xhtml" id="legends-from-harjedalen.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/little-karls-island.xhtml" id="little-karls-island.xhtml" media-type="application/xhtml+xml"/>
@@ -136,6 +137,7 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="introduction.xhtml"/>
 		<itemref idref="the-boy.xhtml"/>
 		<itemref idref="akka-from-kebnekaise.xhtml"/>
 		<itemref idref="the-wonderful-journey-of-nils.xhtml"/>

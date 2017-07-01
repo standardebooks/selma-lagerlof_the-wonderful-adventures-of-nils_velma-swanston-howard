@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard</dc:identifier>
 		<dc:date>2017-06-18T13:55:18Z</dc:date>
 		<meta property="dcterms:modified">2017-06-18T13:55:18Z</meta>
 		<meta property="se:revision-number">1</meta>
@@ -37,36 +37,42 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In &lt;i&gt;The Wonderful Adventures of Nils&lt;/i&gt;, Selma Lagerlöf tells the story of Nils Holgersson, a young boy who is transformed into an elf after a set of misdeeds. Escaping with his family’s farm goose he joins up with a flock of wild geese and travels with them across Sweden as they return to their annual nesting grounds in Lapland.&lt;/p&gt;
 			&lt;p&gt;The story was originally written as a commission for the Swedish National Teachers’ Association to write a geography book for children and has become a firm favourite in the country. It’s been adapted for screen many times, translated into over 30 languages and, until recently, was the artwork on the 20 krona banknote.&lt;/p&gt;
-			&lt;p&gt;Although originally published in English in two volumes—the second starting at &lt;i&gt;The Story of Karr and Grayskin&lt;/i&gt;—here they are presented as a single combined story.&lt;/p&gt;
+			&lt;p&gt;Although originally published in English in two volumes—the second starting at “The Story of Karr and Grayskin”—here they are presented as a single combined story.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/10935</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/10935</dc:source>
 		<dc:source>https://archive.org/details/wonderfuladventu00lagerich</dc:source>
 		<dc:source>https://archive.org/details/furtheradventur00lagegoog</dc:source>
 		<meta property="se:word-count">154942</meta>
 		<meta property="se:reading-ease.flesch">79.09</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Wonderful_Adventures_of_Nils</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/selma-lagerlof_the-wonderful-adventures-of-nils_velma-howard</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/selma-lagerlof_the-wonderful-adventures-of-nils_velma-swanston-howard</meta>
 		<dc:creator id="author">Selma Lagerlöf</dc:creator>
 		<meta property="file-as" refines="#author">Lagerlöf, Selma</meta>
 		<meta property="se:name.person.full-name" refines="#author">Selma Ottilia Lovisa Lagerlöf</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Selma_Lagerl%C3%B6f</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n82143184.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n82143184</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Velma Swanston Howard</dc:contributor>
 		<meta property="file-as" refines="#translator">Howard, Velma Swanston</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n85237306.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n85237306</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Prince Eugen</dc:contributor>
 		<meta property="file-as" refines="#artist">Eugen, Prince</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Prince_Eugen,_Duke_of_N%C3%A4rke</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n83201331.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n83201331</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Schaal</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Schaal, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-2">http://http://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
 		<meta property="se:url.homepage" refines="#producer-1">http://www.robinwhittleton.com</meta>
@@ -76,6 +82,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>

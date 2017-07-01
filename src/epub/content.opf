@@ -44,7 +44,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/10935</dc:source>
 		<dc:source>https://archive.org/details/wonderfuladventu00lagerich</dc:source>
 		<dc:source>https://archive.org/details/furtheradventur00lagegoog</dc:source>
-		<meta property="se:word-count">154942</meta>
+		<meta property="se:production-notes">Some long paragraphs with multiple speakers have been broken up into individual paragraphs for greater clarity. Additionally, the introductions from the separate volumes have been merged into a single introduction.</meta>
+		<meta property="se:word-count">156159</meta>
 		<meta property="se:reading-ease.flesch">79.09</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Wonderful_Adventures_of_Nils</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/selma-lagerlof_the-wonderful-adventures-of-nils_velma-swanston-howard</meta>
@@ -60,6 +61,7 @@
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">Prince Eugen</dc:contributor>
 		<meta property="file-as" refines="#artist">Eugen, Prince</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Prince_Eugen,_Duke_of_N%C3%A4rke</meta>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 690">
 	<title>The titlepage for the Standard Ebooks edition of The Wonderful Adventures of Nils, by Selma Lagerlöf. Translated by Velma Swanston Howard</title>
-	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">THE WONDERFUL</text>
-	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="230">ADVENTURES OF NILS</text>
-	<text style="fill:#000;font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="390">SELMA LAGERLÖF</text>
-	<text style="fill:#000;font-family:OFL Sorts Mill Goudy;font-size:42.5079689px;font-style:italic" text-anchor="middle" x="700" y="570">translated by</text>
-	<text style="fill:#000;font-family:League Spartan;font-size:46.78362656px;letter-spacing:5px" text-anchor="middle" x="700" y="640">VELMA SWANSTON HOWARD</text>
+	<text style="font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">THE WONDERFUL</text>
+	<text style="font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="230">ADVENTURES OF NILS</text>
+	<text style="font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="390">SELMA LAGERLÖF</text>
+	<text style="font-family:OFL Sorts Mill Goudy;font-size:42.5079689px;font-style:italic" text-anchor="middle" x="700" y="570">translated by</text>
+	<text style="font-family:League Spartan;font-size:46.78362656px;letter-spacing:5px" text-anchor="middle" x="700" y="640">VELMA SWANSTON HOWARD</text>
 </svg>

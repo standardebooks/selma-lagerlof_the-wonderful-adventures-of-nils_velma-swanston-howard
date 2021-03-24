@@ -121,7 +121,7 @@
 		<item href="text/from-taberg-to-huskvarna.xhtml" id="from-taberg-to-huskvarna.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/glimminge-castle.xhtml" id="glimminge-castle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/gorgo-the-eagle.xhtml" id="gorgo-the-eagle.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/home-at-last.xhtml" id="home-at-last.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/homeward-bound.xhtml" id="homeward-bound.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -166,7 +166,7 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
-		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="the-boy.xhtml"/>
 		<itemref idref="akka-from-kebnekaise.xhtml"/>
 		<itemref idref="the-wonderful-journey-of-nils.xhtml"/>

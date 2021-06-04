@@ -105,7 +105,6 @@
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
-		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
@@ -162,6 +161,7 @@
 		<item href="text/vermland-and-dalsland.xhtml" id="vermland-and-dalsland.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/westbottom-and-lapland.xhtml" id="westbottom-and-lapland.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/with-the-laplanders.xhtml" id="with-the-laplanders.xhtml" media-type="application/xhtml+xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>

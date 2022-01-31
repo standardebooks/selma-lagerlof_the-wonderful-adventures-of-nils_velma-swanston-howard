@@ -26,9 +26,9 @@ footer{
 }
 
 .datetime{
+	font-style: italic;
 	margin-top: 1em;
 	text-align: right;
-	font-style: italic;
 }
 
 .datetime + p{

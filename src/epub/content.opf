@@ -46,7 +46,7 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
-		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">

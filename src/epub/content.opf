@@ -75,7 +75,6 @@
 		<dc:contributor id="translator">Velma Swanston Howard</dc:contributor>
 		<meta property="file-as" refines="#translator">Howard, Velma Swanston</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n85237306</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">aui</meta>

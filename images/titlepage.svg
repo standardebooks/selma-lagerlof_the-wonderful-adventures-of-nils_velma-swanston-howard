@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 690">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 790">
 	<title>The titlepage for the Standard Ebooks edition of The Wonderful Adventures of Nils, by Selma Lagerlöf. Translated by Velma Swanston Howard</title>
 	<style type="text/css">
 		text{
@@ -28,8 +28,9 @@
 		}
 	</style>
 	<text class="title" x="700" y="130">THE WONDERFUL</text>
-	<text class="title" x="700" y="230">ADVENTURES OF NILS</text>
-	<text class="author" x="700" y="390">SELMA LAGERLÖF</text>
-	<text class="contributor-descriptor" x="700" y="570">translated by</text>
-	<text class="contributor" x="700" y="640">VELMA SWANSTON HOWARD</text>
+	<text class="title" x="700" y="230">ADVENTURES</text>
+	<text class="title" x="700" y="330">OF NILS</text>
+	<text class="author" x="700" y="490">SELMA LAGERLÖF</text>
+	<text class="contributor-descriptor" x="700" y="680">translated by</text>
+	<text class="contributor" x="700" y="740">VELMA SWANSTON HOWARD</text>
 </svg>

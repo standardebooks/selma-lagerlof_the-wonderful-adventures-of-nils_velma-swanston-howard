@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="thumbietot-and-the-bears.xhtml">
 		<ignore code="t-003">
+			<line>103</line>
 			<reason>Matched text is part of longer dialog.</reason>
 		</ignore>
 	</file>

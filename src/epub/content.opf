@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/selma-lagerlof/the-wonderful-adventures-of-nils/velma-swanston-howard</dc:identifier>
 		<dc:date>2017-07-01T21:39:48Z</dc:date>
@@ -53,12 +53,12 @@
 		<meta property="group-position" refines="#collection">68</meta>
 		<meta property="schema:genre">Children’s</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Nils Holgersson, transformed to an elf, learns the meaning of kindness during his adventures with a flock of wild geese.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In &lt;i&gt;The Wonderful Adventures of Nils&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/selma-lagerlof"&gt;Selma Lagerlöf&lt;/a&gt; tells the story of Nils Holgersson, a young boy who is transformed into an elf after a set of misdeeds. Escaping with his family’s farm goose he joins up with a flock of wild geese and travels with them across Sweden as they return to their annual nesting grounds in Lapland.&lt;/p&gt;
 			&lt;p&gt;The story was originally written as a commission for the Swedish National Teachers’ Association to write a geography book for children and has become a firm favourite in the country. It’s been adapted for screen many times, translated into over 30 languages and, until recently, was the artwork on the 20 krona banknote.&lt;/p&gt;
 			&lt;p&gt;Although originally published in English in two volumes—the second starting at “The Story of Karr and Grayskin”—here they are presented as a single combined story.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10935</dc:source>
 		<dc:source>https://archive.org/details/wonderfuladventu00lagerich</dc:source>
